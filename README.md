@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple steps.
 * To change the category of backgrounds open ![bg.js](/bg.js)
 
 ```js
-var apiUrl= `https://pixabay.com/api/?key=<YOUR API KEY>&q=< CATEGORY >&orientation=horizontal&min_width=1920&min_height=1080&page=${randomNumber(1,26)}`;
+var apiUrl= `https://pixabay.com/api/?key=<YOUR API KEY>&q=<CATEGORY>&orientation=horizontal&min_width=1920&min_height=1080&page=${randomNumber(1,26)}`;
 ```
 * Enter your Pixabay API key in < YOUR API KEY >
   
@@ -56,7 +56,7 @@ var apiUrl= `https://pixabay.com/api/?key=<YOUR API KEY>&q=<CATEGORY>&orientatio
 * Enter the category of backgounds you want in < CATEGORY > (e.g. Animals, Cars, City, etc)
 
 ```js
-var apiUrl= `https://pixabay.com/api/?key=<YOUR API KEY>&q=< CATEGORY >&orientation=horizontal&min_width=1920&min_height=1080&page=${randomNumber(1,26)}`;
+var apiUrl= `https://pixabay.com/api/?key=<YOUR API KEY>&q=<CATEGORY>&orientation=horizontal&min_width=1920&min_height=1080&page=${randomNumber(1,26)}`;
 ```
 
 
