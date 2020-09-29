@@ -63,3 +63,8 @@ var apiUrl= `https://pixabay.com/api/?key=<YOUR API KEY>&q=<CATEGORY>&orientatio
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+
+## Contact
+
+Email: business@boostingace.com
