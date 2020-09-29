@@ -39,11 +39,11 @@ Motivate-Me v1.0 is a weekly timer and motivation WebApp
 To get a local copy up and running follow these simple steps.
 
 1. Extract the downloaded zip file in a folder
-2. Open ![index.html](index.html) [use Chrome or Mozilla]
+2. Open ![index.html](/index.html) [use Chrome or Mozilla]
 
 ## Tweaking
 
-* To change the category of backgrounds
+* To change the category of backgrounds open ![bg.js](/bg.js)
 
 ```js
 var apiUrl= `https://pixabay.com/api/?key=<YOUR API KEY>&q=< CATEGORY >&orientation=horizontal&min_width=1920&min_height=1080&page=${randomNumber(1,26)}`;
