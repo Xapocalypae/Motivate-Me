@@ -45,6 +45,7 @@ To get a local copy up and running follow these simple steps.
 var apiUrl= `https://pixabay.com/api/?key=<YOUR API KEY>&q=<CATEGORY>&orientation=horizontal&min_width=1920&min_height=1080&page=${randomNumber(1,26)}`;
 ```
  4.Save bg.js and open index.html
+ 5. I have used fontawesome for icons so make sure you have pasted the folder in your code directory. 
 
 ## Tweaking
 
