@@ -39,14 +39,14 @@ Motivate-Me v1.0 is a weekly timer and motivation WebApp
 
 To get a local copy up and running follow these simple steps.
 
-1. Extract the downloaded zip file in a folder
-2. Open bg.js in your editor
-3. Enter your Pixabay API key in < YOUR API KEY >
+* Extract the downloaded zip file in a folder
+* Open bg.js in your editor
+* Enter your Pixabay API key in < YOUR API KEY >
 ```js
 var apiUrl= `https://pixabay.com/api/?key=<YOUR API KEY>&q=<CATEGORY>&orientation=horizontal&min_width=1920&min_height=1080&page=${randomNumber(1,26)}`;
 ```
- 4.Save bg.js and open index.html
- 5. I have used fontawesome for icons so make sure you have pasted the folder in your code directory. 
+* Save bg.js and open index.html
+* I have used fontawesome for icons so make sure you have pasted the folder in your code directory. 
 
 ## Tweaking
 
