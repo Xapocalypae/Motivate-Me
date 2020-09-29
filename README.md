@@ -18,7 +18,7 @@
 
 Motivate-Me v1.0 is a weekly timer and motivation WebApp 
 
-![preview](img/preview.png)
+![preview](img/preview.PNG)
 
 `Xapocalypae`, `Motivate-Me`, `@xapo_amv`, `business@boostingace.com`
 
